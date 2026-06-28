@@ -1,7 +1,7 @@
 # Palavritas: o que faz um jogador voltar?
 
-**Para:** Head de Produto
-**Sobre:** Análise dos dados do Palavritas — diagnóstico, achados e proposta
+**Para:** Head de Produto  
+**Sobre:** Análise dos dados do Palavritas — diagnóstico, achados e proposta  
 **Pergunta original:** *"O que está determinando se um usuário volta a jogar — e o que podemos fazer para aumentar isso?"*
 
 > O código completo, com cada etapa de limpeza e cada teste estatístico, está no notebook `main.ipynb`. Este documento traz o resultado, sem o passo a passo técnico.
