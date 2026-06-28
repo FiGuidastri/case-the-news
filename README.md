@@ -16,7 +16,7 @@ Resultado completo, com diagnóstico dos dados, achados e 3 propostas testáveis
 
 | Se você quer... | Vá para |
 | --- | --- |
-| Ler o resultado sem jargão técnico (o que o Head de Produto recebeu) | [RELATORIO_ANALISE.pdf](RELATORIO_ANALISE.pdf) (ou [.md](RELATORIO_ANALISE.md)) |
+| Ler o resultado | [RELATORIO_ANALISE.pdf](RELATORIO_ANALISE.pdf) (ou [.md](RELATORIO_ANALISE.md)) |
 | Ver o código: limpeza, testes estatísticos, geração dos gráficos | [main.ipynb](main.ipynb) |
 | Explorar os dados interativamente (KPIs, retenção, perfil dos usuários) | [dashboard.html](dashboard.html) — abrir direto no navegador, não precisa de servidor |
 | Entender o desafio original e os dados recebidos | [CASE.md](CASE.md) |
