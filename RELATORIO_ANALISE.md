@@ -45,13 +45,24 @@ E testei se cada um desses comportamentos varia de forma consistente (não por a
 
 Testamos tudo que a base permite — nada explica de forma relevante por que um jogador volta ou não no dia seguinte. Isso não é um problema da análise: é um achado em si. **Hoje o produto não tem nenhum gatilho identificável de curtíssimo prazo** que traga o jogador de volta logo no dia seguinte. Trato isso como uma oportunidade (proposta 3).
 
+![Retorno no dia seguinte por horário, aparelho e newsletter — todas as taxas ficam perto de 20-23%](imgs/retorno_d1_sem_fator.png)
+
 ### Continuar ativo depois de 30 dias: dois fatores fortes
 
 | Fator | O que vimos |
 |---|---|
 | **Horário do jogo** | Quem joga de manhã tem entre 35% e 38% de chance de continuar ativo 30 dias depois — bem acima dos 28% a 30% de quem joga em outros horários. É a diferença mais forte de toda a análise, e aparece tanto no horário real de cada partida quanto no horário que a própria pessoa diz preferir — duas fontes de dado apontando para o mesmo padrão. |
-| **Abrir a newsletter antes de jogar** | Quem abre a newsletter do the news antes de jogar naquele dia tem 38% de retenção em 30 dias, contra 30% de quem não abre — um salto de quase 1/4. Isso vale para o comportamento real do dia (abriu ou não a newsletter antes de jogar); só "ser assinante" da newsletter, sem necessariamente abrir, não faz tanta diferença. |
+| **Abrir a newsletter antes de jogar** | Quem abre a newsletter do the news antes de jogar naquele dia tem 38% de retenção em 30 dias, contra 31% de quem não abre — um salto de quase 1/4. Isso vale para o comportamento real do dia (abriu ou não a newsletter antes de jogar); só "ser assinante" da newsletter, sem necessariamente abrir, não faz tanta diferença. |
 | *(secundário)* Pedir comida por aplicativo | Quem pede comida por delivery tende a voltar um pouco mais no dia seguinte (18,5% vs 16%), mas o efeito é pequeno — não tratamos como prioridade. |
+
+<p float="left">
+  <img src="imgs/retencao_por_horario.png" width="48%" alt="Retenção em 30 dias por horário da sessão de jogo" />
+  <img src="imgs/retencao_por_newsletter.png" width="48%" alt="Retenção em 30 dias por abertura da newsletter antes de jogar" />
+</p>
+
+O mesmo padrão de horário aparece numa segunda fonte de dado — o horário que cada pessoa diz preferir, não o horário real da sessão — o que reforça que não é coincidência:
+
+![Retenção em 30 dias por horário típico declarado no perfil](imgs/retencao_por_horario_tipico.png)
 
 ### O que não importa (e isso também é informação valiosa)
 
